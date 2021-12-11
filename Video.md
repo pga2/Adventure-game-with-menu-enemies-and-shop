@@ -1,4 +1,4 @@
 # My-First-Game
 
 
-[![video](https://i.ytimg.com/vi/0J-B_AuniQs&ab_channel=PawełGwóźdź/maxresdefault.jpg)](https://youtu.be/0J-B_AuniQs)
+[![video](https://www.vhv.rs/dpng/d/504-5046736_youtube-play-button-on-video-hd-png-download.png)](https://youtu.be/0J-B_AuniQs)
