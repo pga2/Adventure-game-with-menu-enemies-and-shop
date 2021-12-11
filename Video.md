@@ -1,4 +1,4 @@
 # My-First-Game
 
 
-[![video](https://i.ytimg.com/vi/0J-B_AuniQs&ab_channel=Pawe%C5%82Gw%C3%B3%C5%BAd%C5%BA/maxresdefault.jpg)](https://www.youtube.com/watch?v=0J-B_AuniQs&ab_channel=Pawe%C5%82Gw%C3%B3%C5%BAd%C5%BA)
+[![video](https://i.ytimg.com/vi/https://youtu.be/0J-B_AuniQs/maxresdefault.jpg)](https://youtu.be/0J-B_AuniQs)
